@@ -3,9 +3,14 @@
 
 Struct:
 
+1. Distributed Version Control Systems
+2. HEAD
+3. SSH Keys
+4. Command
+
 --
 
-Git Command list:
+Git command list:
 1. git clone
 2. git status
 3. git add .
